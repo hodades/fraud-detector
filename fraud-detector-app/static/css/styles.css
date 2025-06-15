@@ -1,0 +1,57 @@
+.hero {
+  position: relative;
+  height: 100vh;
+  background: url('../img/banner.png') center/cover no-repeat;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+}
+
+a {
+  cursor: pointer;
+}
+
+body.bg-light {
+  background-color: #f5f6fa !important;
+}
+
+.card {
+  border-radius: 0.75rem;
+}
+
+.navbar .nav-link:hover {
+  text-decoration: underline;
+}
+
+#history-table .progress {
+  height: 0.75rem;
+}
+
+.card-header h5,
+.card-header h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.btn-demo {
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #ffffff;
+  font-weight: 600;
+}
+
+.btn-demo:hover,
+.btn-demo:focus {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #000000;
+  border-color: #ffffff;
+  text-decoration: none;
+}
