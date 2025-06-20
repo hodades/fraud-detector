@@ -1,4 +1,4 @@
-# Banking Fraud Detection Powered by AI – Une Solution Smart et Agile :
+# Banking Fraud Detection AI – Une Solution Agile :
 Accès à l’API : http://127.0.0.1:5000
 
 ##  Objectif du Projet
@@ -17,7 +17,7 @@ Développer un système de détection automatique de fraudes sur des transaction
 - Google Colab & VS Code
 
 
-## 🔍 Démarche et Étapes Clés
+##  Démarche et Étapes Clés
 1. **Exploration des données** : analyse du dataset, visualisation des déséquilibres de classes, et premiers nettoyages.
 2. **Prétraitement** : normalisation, transformation de la variable temporelle, encodage si nécessaire.
 3. **Réduction de dimensionnalité** : application de la PCA pour faciliter la visualisation et réduire la complexité.
@@ -25,10 +25,10 @@ Développer un système de détection automatique de fraudes sur des transaction
 5. **Modélisation** : test de plusieurs modèles (Régression Logistique, Arbre de Décision, Random Forest) et sélection du modèle optimal selon le Recall et la précision.
 6. **Déploiement** : création d’une API avec Flask et d’une interface web intuitive avec Streamlit pour tester des transactions en direct.
 
-## Résultats
+##  Résultats
 Le modèle final atteint un bon compromis entre détection des fraudes (Recall) et limitation des faux positifs (Precision), grâce à l'équilibrage des classes et à la bonne sélection des variables explicatives. Il est prêt à être utilisé dans un environnement de production grâce à son intégration via Flask et Streamlit.
 
-## 🚀 Lancement rapide
+##  Lancement rapide
 ```bash
 # Lancer l'API Flask
 python app.py
