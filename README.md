@@ -1,8 +1,10 @@
 # Banking Fraud Detection Powered by AI – Une Solution Smart et Agile :
-
+Accès à l’API : http://127.0.0.1:5000
 
 ##  Objectif du Projet
 Développer un système de détection automatique de fraudes sur des transactions bancaires, en combinant des techniques de machine learning, de réduction de dimensionnalité et de rééchantillonnage afin d’optimiser la précision sur un jeu de données fortement déséquilibré.
+![image](https://github.com/user-attachments/assets/3fc1ca97-e3b7-4698-b4b5-e1aa2ecd1c3b)
+
 
 ##  Technologies Utilisées
 - Python
