@@ -1,5 +1,5 @@
 # Banking Fraud Detection AI – Une Solution Agile :
-Accès à l’API : http://127.0.0.1:5000
+Accès à l’interface web : http://127.0.0.1:5000/
 
 ##  Objectif du Projet
 Développer un système de détection automatique de fraudes sur des transactions bancaires, en combinant des techniques de machine learning, de réduction de dimensionnalité et de rééchantillonnage afin d’optimiser la précision sur un jeu de données fortement déséquilibré.
