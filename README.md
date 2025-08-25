@@ -1,6 +1,6 @@
 # Banking Fraud Detection AI – An Agile Solution :
 Access the web interface: http://127.0.0.1:5000/
-<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/1044779e-941b-4e82-bf1e-98bb8fc94100" />
+
 
 ## Project Objective
 Develop an automatic fraud detection system for banking transactions, combining machine learning techniques, dimensionality reduction, and resampling in order to optimize accuracy on a highly imbalanced dataset.  
